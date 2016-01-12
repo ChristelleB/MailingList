@@ -1,0 +1,15 @@
+Compréhension
+
+
+La newslatter
+
+un formulaire pour notre inscription qui check l’adresse mail 
+     si elle est bonne on envoi un mail pour valider
+     si elle est mauvaise on lui dit
+
+2) on insert les données dans la database, avec les données et surtout l’id, on peut faire un lien de validation par rapport a cet id. 
+3) pour voir par rapport au temps, il doit regarder la timeline et voir si il y a plus de 30minutes ajoutées a ce temps, pas de validation mais si non on valide le mail et change la valeur de validate dans la database.
+
+
+
+
